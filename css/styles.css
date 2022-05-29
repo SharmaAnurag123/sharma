@@ -29,7 +29,7 @@ h6 {
 }
 
 a {
-    color: #45aed6;
+    color: #cfbc10;
     -webkit-transition: color 400ms, background-color 400ms;
     -moz-transition: color 400ms, background-color 400ms;
     -o-transition: color 400ms, background-color 400ms;
@@ -39,7 +39,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #D3AF02;
+    color:#e7e6dd;
 }
 
 hr {
