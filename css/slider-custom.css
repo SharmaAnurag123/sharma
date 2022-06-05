@@ -434,7 +434,10 @@
     -ms-animation: fadeOut 1s linear both;
     animation: fadeOut 1s linear both;
 }
-
+.sl-slider {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
 @-webkit-keyframes roll {
     0% {
         -webkit-transform: translateX(500px) rotate(360deg);
